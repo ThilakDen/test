@@ -1,0 +1,13 @@
+[
+    {
+        "instruction": "who live kinigama city in country sri lanka ?",
+        "input": "",
+        "output": "thilak ruwan chamara"
+    },
+    {
+        "instruction": "who live in kinigama city ?	",
+        "input": "",
+        "output": "thilak ruwan chamara."
+    }
+  
+  ]
