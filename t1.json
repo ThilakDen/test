@@ -1,5 +1,20 @@
 [
     {
+        "instruction": "Normalize the following URL.",
+        "input": "https://www.google.com/search?q=google+search&oq=google+search",
+        "output": "The normalized URL is: https://www.google.com/search?q=google+search"
+    },
+    {
+        "instruction": "Classify the following triangle as a right triangle, an acute triangle, or an obtuse triangle.",
+        "input": "The triangle has side lengths 3, 4, and 5.",
+        "output": "The triangle is a right triangle, since the side lengths form a Pythagorean triple (3^2 + 4^2 = 5^2)."
+    },
+    {
+        "instruction": "Determine the rate of work given the following information.",
+        "input": "Katie can mow 10 lawns in 8 hours.",
+        "output": "Katie's rate of work is 1.25 lawns per hour."
+    },
+    {
         "instruction": "who live kinigama city in country sri lanka?",
         "input": "",
         "output": "person called thilak ruwan chamara"
