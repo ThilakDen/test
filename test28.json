@@ -1,12 +1,12 @@
 [
     {
-        "instruction": "who live kinigama city in country sri lanka ?",
+        "instruction": "Give three tips for staying healthy.",
         "input": "",
-        "output": "person called thilak ruwan chamara"
-    }, 
+        "output": "1. Eat a balanced diet and make sure to include plenty of fruits and vegetables. good sleep schedule."
+    },
     {
-        "instruction": "who live fa ?",
+        "instruction": "What are the three primary colors?",
         "input": "",
-        "output": "person called as "
+        "output": "The three primary colors are red, blue, and yellow."
     }
 ]
